@@ -9,7 +9,7 @@ so we expect that you'll be using a separate \*nix machine for your agent.
 
 ## Requirements
 * The [GTAV requirements](http://www.pcgamer.com/gta-5-system-requirements-announced/) - although Windows server 2012 will also work with the Steam version of the game
-* 4GB for GTAVController and its dependencies
+* 4GB of disk for GTAVController and its dependencies
 
 **Network**
 
